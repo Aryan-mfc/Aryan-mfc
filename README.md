@@ -1,14 +1,30 @@
 - 👋 Hi, I’m @Aryan-mfc
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
+
+### Languages
+Some of the languages I use in order of preference.
+- **C++**
+- **C#**
+- **PowerShell**
+- **TypeScript**
+- **Python**
+- **Java**
+- **php**
 
 
 
   It is me Red Hacker in Red Army 
 
   Indian Hacker Boy
+
+- **PHP**
+  - A popular general-purpose scripting language that is especially suited to web development.
+- **SilverStripe**
+  - CMS is the intuitive content management system and flexible framework loved by editors and developers alike.
+- **NodeJS**
+  - Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine.
+
+
 
 [![Whatsapp](https://img.shields.io/badge/Whatsapp-Aryan-blue?style=flat-square&logo=whatsapp)](https://chat.whatsapp.com/KlyspQqhagm1Jc0H4GARUf)</br>
 
@@ -25,6 +41,39 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryan-mfc&show_icons=true&locale=en" alt="aryan-mfc" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryan-mfc&" alt="aryan-mfc" /></p>
+
+
+
+
+### Badges
+
+<a href="https://app.daily.dev/Aryan-Mfc"><img src="https://api.daily.dev/devcards/2abd03549f3c42739d80deb2b414359d.png?r=rzm" width="400" alt="Luc Shelton's Dev Card"/></a>
+
+<!--
+**Aryan-Mfc/Aryan-Mfc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+
+
+
+
+
+
+
+
+
+
 
 
 <!---
