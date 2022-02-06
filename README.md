@@ -25,11 +25,10 @@ Some of the languages I use in order of preference.
   - Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine.
 
 
+# WHATSAPP
 
-[![Whatsapp](https://img.shields.io/badge/Whatsapp-Aryan-blue?style=flat-square&logo=whatsapp)](https://chat.whatsapp.com/KlyspQqhagm1Jc0H4GARUf)</br>
 
-
-[![Whatsapp](https://img.shields.io/badge/Whatsapp-Aryan-blue?style=flat-square&logo=whatsapp)](https://chat.whatsapp.com/KlyspQqhagm1Jc0H4GARUf)</br>
+[![Whatsapp](https://img.shields.io/badge/Whatsapp-Aryan-blue?style=flat-square&logo=whatsapp)](https://wa.me//+917356268818)</br>
 
 
 
