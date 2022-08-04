@@ -8,8 +8,21 @@ src="https://readme-typing-svg.herokuapp.com/?size=30&width=800&lines=Welcome,+I
     </a>
 </p>
 
+<img src="https://github.com/MRVIVEK-CODER/Decompiler/blob/main/106824690-8dd73a00-66ad-11eb-89e2-53e13ac6f594.gif" alt="" border="0" />
+
+![Alt text](https://github.com/MRVIVEK-CODER/MRVIVEK-CODER/raw/main/md7Oqrf.gif)
+
 
 - 👋 Hi, I’m @Aryan-mfc
+
+ ### NOTES
+- 🌞  **EDUCATION**
+- 🌞  **LEARNING**
+- 🌞  **FOCUSE**
+- 🌞  **IMPORTANCE**
+
+
+<a href="https://github.com/Aryan-Mfc"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=Aryan-Mfc&theme=monokai"></a>
 
 
 ### Languages
@@ -22,11 +35,13 @@ Some of the languages I use in order of preference.
 - **Java**
 - **php**
 
+<p align="center"><a href="https://github.com/Aryan-Mfc">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Aryan-Mfc&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" /></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/Aryan-Mfc"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-Mfc&layout=compact&theme=react&hide_border=true" />
+</a></p>
 
-
-  It is me Red Hacker in Red Army 
-
-  Indian Hacker Boy
+### SIMPLE EXPLAIN 
 
 - **PHP**
   - A popular general-purpose scripting language that is especially suited to web development.
@@ -35,7 +50,13 @@ Some of the languages I use in order of preference.
 - **NodeJS**
   - Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine.
 
+</p>
 
+<p align="center"> 
+
+ 𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃
+
+ <img src="https://profile-counter.glitch.me/Aryan-Mfc/count.svg" />
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -49,29 +70,7 @@ Some of the languages I use in order of preference.
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryan-mfc&" alt="aryan-mfc" /></p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryan-mfc&show_icons=true&locale=en&layout=compact" alt="aryan-mfc" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryan-mfc&show_icons=true&locale=en" alt="aryan-mfc" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryan-mfc&" alt="aryan-mfc" /></p>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryan-mfc&show_icons=true&locale=en&layout=compact" alt="aryan-mfc" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryan-mfc&show_icons=true&locale=en" alt="aryan-mfc" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryan-mfc&" alt="aryan-mfc" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryan-mfc&show_icons=true&locale=en&layout=compact" alt="aryan-mfc" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryan-mfc&show_icons=true&locale=en" alt="aryan-mfc" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryan-mfc&" alt="aryan-mfc" /></p>
-
-
-
-
-<!--
 **Aryan-Mfc/Aryan-Mfc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -85,16 +84,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-
-
-
-
-
-
-
-
 
 
 
